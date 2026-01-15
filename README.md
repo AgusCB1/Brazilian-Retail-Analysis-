@@ -86,4 +86,4 @@ Agustín
 
 Business Intelligence / Data Analytics
 
-Portfolio: https://furtive-deposit-d5c.notion.site/Agust-n-Contreras-Data-Analyst-Portfolio-2e666608ac4e809aa523e2642491ef52 
+**Portfolio**: https://furtive-deposit-d5c.notion.site/Agust-n-Contreras-Data-Analyst-Portfolio-2e666608ac4e809aa523e2642491ef52 
