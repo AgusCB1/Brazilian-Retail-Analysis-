@@ -1,4 +1,4 @@
-# Brazilian-Retail-Analysis-
+# Brazilian Retail Analysis
 ## SQL · Power BI · Python
 
 ## Project Overview
@@ -83,5 +83,7 @@ The data used in this project comes from the public Olist Brazilian E-Commerce D
 ## Author
 
 Agustín
+
 Business Intelligence / Data Analytics
+
 Portfolio:  
