@@ -59,13 +59,13 @@ Dashboards
 
 ## The Power BI report includes three main dashboards:
 
-**General View**
+- **General View**
 Monthly evolution of revenue, orders, and active customers, with KPIs and filters by year and order status.
 
-**Customers & Products**
+- **Customers & Products**
 Revenue concentration, top customers, category performance, and average revenue per customer.
 
-**Sellers & Logistics**
+- **Sellers & Logistics**
 Seller revenue and order volume, delivery performance, late delivery rate, and operational KPIs.
 
 ## Data Source
